@@ -1,0 +1,3 @@
+Dataset,Original_Rows,Cleaned_Rows,Columns,Numeric_Columns,Categorical_Columns,Missing_Values_After_Cleaning
+Air Quality,500,500,14,12,2,0
+Heart Disease,50000,50000,21,15,6,0
