@@ -1,1 +1,1 @@
-100 days of ML by CampusX codes and notes also some personal models  
+100 days of ML by CampusX codes and notes also some personal models for learning and practice
